@@ -1,0 +1,32 @@
+.jumbotron {
+	background-color: black;
+	text-align:center;
+	color:white;
+	margin:0px 0px 0px 0px;
+}
+
+.midsection {
+	border:2px solid #428bca;
+	border-radius: 5px;
+	margin:25px 0px 0px 0px;
+}
+
+.bottomsection {
+	border:2px solid #428bca;
+	border-radius: 5px;
+	margin:25px 0px 40px 0px;
+}
+
+h4 {
+	height:50px;
+	padding-top:15px;
+}
+
+.traininputheading {
+	padding-bottom:0px;
+	height:42px;
+}
+
+button {
+	margin-bottom: 18px;
+}
